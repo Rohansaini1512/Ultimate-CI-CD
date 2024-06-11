@@ -58,7 +58,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.abhishek.MainApplication</mainClass>
+                    <mainClass>com.abhishek.StartApplication</mainClass>
                 </configuration>
             </plugin>
             <plugin>
